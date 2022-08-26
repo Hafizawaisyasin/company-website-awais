@@ -1,0 +1,6 @@
+
+.MuiMenu-list > .Mui-selected {
+    background:rgb(51, 92, 131)!important;
+    color:#fff;
+    opacity:0.9
+}
