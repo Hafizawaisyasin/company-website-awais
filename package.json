@@ -1,9 +1,6 @@
 {
-  "name": "awais-company",
+  "name": "first-intro",
   "version": "0.1.0",
-  "engines": {
-    "node": "18.x"
-  },
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.0",
@@ -23,11 +20,10 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start -p $PORT",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "heroku-postbuild":"npm run build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
