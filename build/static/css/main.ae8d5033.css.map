@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.ae8d5033.css","mappings":"AACA,4BACI,4BAAqC,CACrC,UAAU,CACV,UACJ","sources":["components/ui/css/customization.css"],"sourcesContent":["\n.MuiMenu-list > .Mui-selected {\n    background:rgb(51, 92, 131)!important;\n    color:#fff;\n    opacity:0.9\n}"],"names":[],"sourceRoot":""}
