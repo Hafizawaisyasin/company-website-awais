@@ -1,6 +1,9 @@
 [build]
   command = "npm run build"
-  publish = ".next"
+  publish = "build"  # Change this to your build directory
+
+[[plugins]]
+  package = "netlify-plugin-prisma"
 
 [[plugins]]
   package = "netlify-plugin-cypress"
